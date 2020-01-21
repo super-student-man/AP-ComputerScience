@@ -10,6 +10,6 @@ The entire course content of AP ComputerScience and Learning Java.
 
 # Getting Started (Linux)
 **step 1** Arch based systems,`sudo pacman -S jdk-openjdk` Debian based systems,`sudo apt-get install jdk-openjdk`<br>
-**step 2** Use snap [here](https://snapcraft.io/intellij-idea-community) `snap install intellij-idea-community --classic`
+**step 2** Use snap [here](https://snapcraft.io/intellij-idea-community) `snap install intellij-idea-community --classic`<br>
 Now you area ready to learn Java!<br>
 ![](https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png)
